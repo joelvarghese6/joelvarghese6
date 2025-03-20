@@ -26,7 +26,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 <details>
 <summary>MyWroom Conclave</summary>
 <br>
-
+</details>
 <br>
 
 ### Honors & Awards 🏅
