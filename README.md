@@ -22,9 +22,10 @@
 I am a coder who loves to think solutions out of thin air. I enjoy learning about and working on Blockchain technology.I also have a knack for competitive coding and Open Source. 
 
 
-### Honors & Awards 🏅
+### Proud Projects 🏅
 
-- Runner up for the Monacode hackathon in 2023
+- Cricket Bet Bot
+- Sweeper API
 
 
 ### Languages I use to talk to computer 🤔
